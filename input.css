@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: rgb(229, 226, 226);
+    background-color: rgb(0, 0, 0);
     font-family: 'public sans';
 }
 .formulario{
@@ -20,7 +20,7 @@ body{
     position: relative;
     border-radius: 5px;
     box-shadow: 1px 1px 5px white;
-    background-color: rgb(158, 158, 158);
+    background-color: rgb(255, 159, 3);
 
 }
 .f_reg{
@@ -35,7 +35,7 @@ body{
     border-radius: 5px;
     background-color: rgb(0, 0, 0);
     font-family: 'public sans';
-    color:white
+    color:rgb(255, 179, 0)
 
 }
 .inputs{
@@ -58,15 +58,15 @@ body{
     width: 100%;
     height:25px;
     border:none;
-    color: white;
-    background-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255);
     border-radius: 3px;
 
 }
 .s_texto,.s_textoA,.s_caracter{
     font-size: 12px;
     font-weight: bold;
-    color:rgb(255, 0, 0,.8);
+    color:rgba(255, 255, 255);
     background-color: rgb(0, 0, 0);
     text-shadow: 0 0 5px black;
     letter-spacing: 1px;
@@ -76,10 +76,10 @@ body{
 .f_btn{
     width:80px;
     height:25px;
-    background-color: #000000;
+    background-color: rgb(0, 0, 0);
     border-radius: 5px;
     border:none;
-    color:white;
+    color:rgb(255, 179, 0);
     font-size: 18px;
     position: absolute;
     bottom: 5px;
